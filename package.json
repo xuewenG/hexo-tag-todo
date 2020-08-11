@@ -1,0 +1,22 @@
+{
+  "name": "hexo-tag-todo",
+  "version": "1.0.0",
+  "description": "Allows you to add todo tag in your article.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuewenG/hexo-tag-todo"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "xuewenG (https://blog.xuewen.me)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "hexo": "^5.0.2"
+  }
+}
