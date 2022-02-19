@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-todo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to add todo tag in your article.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "xuewenG (https://blog.xuewen.me)",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.0",
-    "hexo": "^5.0.2"
+    "chalk": "^4.1.2",
+    "hexo": "^6.0.0"
   }
 }
